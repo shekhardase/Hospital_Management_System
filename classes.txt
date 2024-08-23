@@ -1,0 +1,15 @@
+classes
+
+patients:
+Add patients  , view patients , check patients
+
+
+
+Doctor
+view data , checkdoctor()
+
+
+
+
+Hospital management 
+driver class ,main methods ,exits ,switch
